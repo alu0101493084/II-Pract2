@@ -15,5 +15,3 @@
 ![](https://github.com/alu0101493084/II-Pract2/blob/main/II-Pract2%20-%20Ejercicio7.gif)
 ## Ejercicio 8
 ![](https://github.com/alu0101493084/II-Pract2/blob/main/II-Pract2%20-%20Ejercicio8.gif)
-## Descripción del Trabajo
-Para cumplir con los objetivos de la práctica se siguieron los siguientes pasos:
